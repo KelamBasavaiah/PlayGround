@@ -1,0 +1,7 @@
+C:\Users\kelam.basavaiah\Documents\GitBash\PlayGround\DotNet\.vs\DotNet\lut\0\b\UnitTestIngDotNet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kelam.basavaiah\Documents\GitBash\PlayGround\DotNet\.vs\DotNet\lut\0\b\UnitTestIngDotNet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kelam.basavaiah\Documents\GitBash\PlayGround\DotNet\.vs\DotNet\lut\0\b\UnitTestIngDotNet\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kelam.basavaiah\Documents\GitBash\PlayGround\DotNet\.vs\DotNet\lut\0\b\UnitTestIngDotNet\bin\Debug\UnitTestIngDotNet.dll
+C:\Users\kelam.basavaiah\Documents\GitBash\PlayGround\DotNet\.vs\DotNet\lut\0\i\UnitTestIngDotNet\Debug\UnitTestIngDotNet.csproj.CoreCompileInputs.cache
+C:\Users\kelam.basavaiah\Documents\GitBash\PlayGround\DotNet\.vs\DotNet\lut\0\i\UnitTestIngDotNet\Debug\UnitTestIngDotNet.csproj.CopyComplete
+C:\Users\kelam.basavaiah\Documents\GitBash\PlayGround\DotNet\.vs\DotNet\lut\0\i\UnitTestIngDotNet\Debug\UnitTestIngDotNet.dll
