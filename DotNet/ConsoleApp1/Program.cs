@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
+    public delegate string test(string status);
+    public interface ibook
+    {
+
+    }
     class Program
     {
+   
         public void test()
         {
             //Program p = new Program();
@@ -29,13 +35,25 @@ namespace ConsoleApp1
             p.test();
             //p.test1();
             Console.WriteLine("k");
-           
+
             var tc = new testClass();
-            tc.kb();
-           // tc.test();
+            var k = int.Parse(Console.ReadLine());
+            Console.WriteLine(k);
+            // tc.test();
             //Program.Main(args);
             string x;
             x = Console.ReadLine();
+
+
+            string deli1(string statuss)
+            {
+                return statuss;
+            }
+            test kb;
+            kb = deli1;
+            var status = kb("true");
+            Console.WriteLine(status);
+            Console.ReadLine();
 
         }
     }

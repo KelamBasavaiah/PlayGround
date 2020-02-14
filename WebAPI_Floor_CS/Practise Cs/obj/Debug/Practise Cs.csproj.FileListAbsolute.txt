@@ -1,0 +1,7 @@
+C:\Users\kelam.basavaiah\source\repos\WebAPI_Floor_CS\Practise Cs\bin\Debug\Practise Cs.exe.config
+C:\Users\kelam.basavaiah\source\repos\WebAPI_Floor_CS\Practise Cs\bin\Debug\Practise Cs.exe
+C:\Users\kelam.basavaiah\source\repos\WebAPI_Floor_CS\Practise Cs\bin\Debug\Practise Cs.pdb
+C:\Users\kelam.basavaiah\source\repos\WebAPI_Floor_CS\Practise Cs\obj\Debug\Practise Cs.csprojAssemblyReference.cache
+C:\Users\kelam.basavaiah\source\repos\WebAPI_Floor_CS\Practise Cs\obj\Debug\Practise Cs.csproj.CoreCompileInputs.cache
+C:\Users\kelam.basavaiah\source\repos\WebAPI_Floor_CS\Practise Cs\obj\Debug\Practise Cs.exe
+C:\Users\kelam.basavaiah\source\repos\WebAPI_Floor_CS\Practise Cs\obj\Debug\Practise Cs.pdb

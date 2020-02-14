@@ -22,7 +22,7 @@ namespace ConsoleApp1
 
         internal void kb()
         {
-            throw new NotImplementedException();
+            
         }
     }
 }
